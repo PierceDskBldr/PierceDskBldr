@@ -102,9 +102,9 @@ body{
     margin-top: 260;
 }
 #Welcome {
-    opacity: 1;
+    opacity: 0.9;
     position: relative;
-    border-top: 100px solid #FF652F;
+    border-top: 100px solid #000000;
 	border-right: 0 solid transparent;
 	border-bottom: 0 solid transparent;
 	border-left: 1000px solid transparent;
@@ -123,8 +123,8 @@ body{
 }
 #i1 {
     opacity: 1;
-    height: 48px;
-    width: 48px;
+    /**height: 48px;
+    width: 48px; */
     border: 5px solid white;
     border-left: 5px solid white;
     border-bottom: 5px solid white;
