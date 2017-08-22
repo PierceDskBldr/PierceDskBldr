@@ -101,16 +101,7 @@ body{
 #hbackgroundimage {
     margin-top: 260;
 }
-#Welcome {
-    opacity: 0.9;
-    position: relative;
-    border-top: 100px solid #000000;
-	border-right: 0 solid transparent;
-	border-bottom: 0 solid transparent;
-	border-left: 1250px solid transparent;
-    margin-top: -570px;
     
-}
 #Welcometext h1 {
     color: white;
     font-family: Ubuntu, sans-serif;
@@ -122,6 +113,8 @@ body{
     /**background-color: #EDEAE5;*/
 }
 #i1 {
+    width: 32px;
+    height: 32px;
     opacity: 1;
     border: 5px solid white;
     border-left: 5px solid white;
